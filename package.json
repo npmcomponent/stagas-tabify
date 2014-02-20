@@ -1,0 +1,16 @@
+{
+  "name": "stagas-tabify",
+  "description": "convert a list to tabs",
+  "version": "0.0.2",
+  "keywords": [
+    "tabs",
+    "nav"
+  ],
+  "styles": [
+    "tabify.css"
+  ],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}
